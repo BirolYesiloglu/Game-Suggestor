@@ -1,0 +1,58 @@
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.AssemblyReference.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.GameSuggestor.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\MySql.Data.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\System.Memory.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\System.Buffers.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\bin\Debug\MySql.Data.xml
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.CopyComplete
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\MySql.Data.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\System.Memory.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\System.Buffers.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\bin\Debug\MySql.Data.xml
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.AssemblyReference.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.GameSuggestor.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.csproj.CopyComplete
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.LoginForm.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.UserRate.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Proje\DataBaseProject\obj\Debug\DataBaseProject.AddGame.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\DataBaseProject.exe.config
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\DataBaseProject.exe
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\DataBaseProject.pdb
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\MySql.Data.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\System.Memory.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\System.Buffers.dll
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\bin\Debug\MySql.Data.xml
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.csproj.AssemblyReference.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.AddGame.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.GameSuggestor.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.LoginForm.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.Properties.Resources.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.UserRate.resources
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.csproj.GenerateResource.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.csproj.CopyComplete
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.exe
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.pdb
+C:\Users\birol\OneDrive\Masaüstü\Değişik\Dersler\3.Sınıf\Veri Tabanı Sistemleri ( Bu dersin amk)\Project\DataBaseProject\obj\Debug\DataBaseProject.Aggregate.resources
